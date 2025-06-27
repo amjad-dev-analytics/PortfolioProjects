@@ -4,7 +4,7 @@ Welcome to my portfolio! I specialize in data analysis using Excel, SQL, and Tab
 
 ## 📊 Excel Projects
 
-- [Project sales.xlsx – Sales Dashboard with Formulas & Pivot Tables](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Project%20sales%20.xlsx)
+- [Project sales.xlsx – Sales Dashboard with Formulas & Pivot Tables](https://github.com/amjad-dev-analytics/Portfolio/raw/main/Project%20sales%20.xlsx)
 	
 
 ## 🟨 SQL Projects
