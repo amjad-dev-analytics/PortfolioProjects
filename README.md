@@ -4,7 +4,7 @@ Welcome to my portfolio! I specialize in data analysis using Excel, SQL, and Tab
 
 ## 🟩 Excel Projects
 - **Sales Dashboard** – Interactive sales report using PivotTables and charts.
--(blob:https://github.com/2fa7b734-409f-4974-ac44-6a07046822f5)
+-(https://github.com/2fa7b734-409f-4974-ac44-6a07046822f5)
 
 ## 🟨 SQL Projects
 - **Northwind Reports** – Querying customer orders, product sales using JOIN, GROUP BY.
