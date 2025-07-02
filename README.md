@@ -15,11 +15,11 @@ Welcome to my portfolio! I specialize in data analysis using Excel, SQL, and Tab
 -  [4.SQLQuery for Top 5 Products.sql](https://github.com/amjad-dev-analytics/Portfolio/blob/main/SQLQuery%20for%20Top%205%20Products.sql)
 -  [5.Top 5 Customers By Revenue.sql](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Top%205%20Customers%20By%20Revenue.sql)
 - **Query Result Sheet** – Exported results for clarity.(Recommended)
--  [1.Orders per Employee.sql](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Orders%20Per%20Employee.png)
--  [2.Query for Monthly Revenue.sql](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Monthly%20Revenue.png)
--  [3.Query For Total revenue by country.sql](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Total%20revenue%20by%20country.png)
--  [4.SQLQuery for Top 5 Products.sql](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Top%205%20Products.png)
--  [5.Top 5 Customers By Revenue.sql](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Top%205%20Customers%20By%20Revenue.png)
+-  [1.Orders per Employee](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Orders%20Per%20Employee.png)
+-  [2.Query for Monthly Revenue](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Monthly%20Revenue.png)
+-  [3.Query For Total revenue by country](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Total%20revenue%20by%20country.png)
+-  [4.SQLQuery for Top 5 Products](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Top%205%20Products.png)
+-  [5.Top 5 Customers By Revenue](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Top%205%20Customers%20By%20Revenue.png)
 ## 🟦 Tableau Projects
 -  [Global E-Commerce Dashboard – Sales, Region & Customer Insights.twbx]
 
