@@ -23,7 +23,7 @@ Welcome to my portfolio! I specialize in data analysis using Excel, SQL, and Tab
 ## 🟦 Tableau Projects
 -  [Global E-Commerce Dashboard – Sales, Region & Customer Insights.twbx]
 -  [For download](https://raw.githubusercontent.com/amjad-dev-analytics/Portfolio/refs/heads/main/Global%20E-Commerce%20Dashboard%20%E2%80%93%20Sales%2C%20Region%20%26%20Customer%20Insights.twbx)
--  [For view (in tableau public)](https://public.tableau.com/app/profile/amjad.baig/viz/GlobalE-CommerceDashboardSalesRegionCustomerInsights/GlobalE-CommerceSalesStory)
+-  [For view (in tableau public)(Recommended)](https://public.tableau.com/app/profile/amjad.baig/viz/GlobalE-CommerceDashboardSalesRegionCustomerInsights/GlobalE-CommerceSalesStory)
 
 ---
 
