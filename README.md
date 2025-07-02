@@ -9,7 +9,7 @@ Welcome to my portfolio! I specialize in data analysis using Excel, SQL, and Tab
 
 ## 🟨 SQL Projects
 - **Northwind Reports** – Querys
--  [1.Orders per Employee.sql]
+-  [1.Orders per Employee.sql](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Orders%20per%20Employee.sql)
 -  [2.Query for Monthly Revenue.sql]
 -  [3.Query For Total revenue by country.sql]
 -  [4.SQLQuery for Top 5 Products.sql]
