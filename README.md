@@ -8,11 +8,20 @@ Welcome to my portfolio! I specialize in data analysis using Excel, SQL, and Tab
 	
 
 ## 🟨 SQL Projects
-- **Northwind Reports** – Querying customer orders, product sales using JOIN, GROUP BY.
+- **Northwind Reports** – Querys
+-  [1.Orders per Employee.sql]
+-  [2.Query for Monthly Revenue.sql]
+-  [3.Query For Total revenue by country.sql]
+-  [4.SQLQuery for Top 5 Products.sql]
+-  [5.Top 5 Customers By Revenue.sql]
 - **Query Result Sheet** – Exported results for clarity.
-
+-  [1.Orders per Employee.sql]
+-  [2.Query for Monthly Revenue.sql]
+-  [3.Query For Total revenue by country.sql]
+-  [4.SQLQuery for Top 5 Products.sql]
+-  [5.Top 5 Customers By Revenue.sql]
 ## 🟦 Tableau Projects
-- **COVID Dashboard** – Worldwide case and death trends, continent filters.
+-  [Global E-Commerce Dashboard – Sales, Region & Customer Insights.twbx]
 
 ---
 
