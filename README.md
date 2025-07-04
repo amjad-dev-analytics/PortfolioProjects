@@ -27,7 +27,7 @@ An interactive Tableau Story that visualizes e-commerce sales across multiple pr
 
 ** 🔗 View Live Dashboard **
 [Click here to open on Tableau Public](https://public.tableau.com/app/profile/amjad.baig/viz/ComprehensiveProductSalesDashboardSalesRegionCustomerInsights/ComprehensiveProductSalesStory)
-# Typing Practice Web App (Private)
+## Typing Practice Web App (Private)
 
 -  A typing web app built with AI guidance to improve speed and accuracy. Users can upload there own file to practice,type one paragraph at a time, For next paragraph users must complete some condition like high accuracy (default 80 % accuracy) . Includes WPM tracking, mistake highlighting, dark mode, and local progress saving.
   
