@@ -21,9 +21,17 @@ Welcome to my portfolio! I specialize in data analysis using Excel, SQL, and Tab
 -  [4.SQLQuery for Top 5 Products](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Top%205%20Products.png)
 -  [5.Top 5 Customers By Revenue](https://github.com/amjad-dev-analytics/Portfolio/blob/main/Top%205%20Customers%20By%20Revenue.png)
 ## 🟦 Tableau Projects
--  [Global E-Commerce Dashboard – Sales, Region & Customer Insights.twbx]
--  [For download](https://raw.githubusercontent.com/amjad-dev-analytics/Portfolio/refs/heads/main/Global%20E-Commerce%20Dashboard%20%E2%80%93%20Sales%2C%20Region%20%26%20Customer%20Insights.twbx)
--  [For view (in tableau public)(Recommended)](https://public.tableau.com/app/profile/amjad.baig/viz/GlobalE-CommerceDashboardSalesRegionCustomerInsights/GlobalE-CommerceSalesStory)
+**Comprehensive Product Sales Dashboard (Story)**
+
+An interactive Tableau Story that visualizes e-commerce sales across multiple product categories — including electronics and non-electronics. It features filters, KPIs, and product image URLs for a dynamic and insightful user experience.
+
+** 🔗 View Live Dashboard **
+[Click here to open on Tableau Public](https://public.tableau.com/app/profile/amjad.baig/viz/ComprehensiveProductSalesDashboardSalesRegionCustomerInsights/ComprehensiveProductSalesStory)
+# Typing Practice Web App (Private)
+
+-  A typing web app built with AI guidance to improve speed and accuracy. Users can upload there own file to practice,type one paragraph at a time, For next paragraph users must complete some condition like high accuracy (default 80 % accuracy) . Includes WPM tracking, mistake highlighting, dark mode, and local progress saving.
+  
+> 🔒 Private project – available on request
 
 ---
 
