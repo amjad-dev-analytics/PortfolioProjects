@@ -1,6 +1,5 @@
-# 📊 Data Analyst Portfolio – Amjad Baig
-
-Welcome to my portfolio! I specialize in data analysis using Excel, SQL, and Tableau.
+## Beginner Projects
+"These were created in early stage of my data learning journey. They helped me to build a strong journey foundation in practical skills."
 
 ## 📊 Excel Projects
 
@@ -32,6 +31,6 @@ An interactive Tableau Story that visualizes e-commerce sales across multiple pr
 -  A typing web app built with AI guidance to improve speed and accuracy. Users can upload there own file to practice,type one paragraph at a time, For next paragraph users must complete some condition like high accuracy (default 80 % accuracy) . Includes WPM tracking, mistake highlighting, dark mode, and local progress saving.
   
 > 🔒 Private project – available on request
-
+(because it's incomplete project.)
 ---
 
